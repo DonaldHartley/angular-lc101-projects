@@ -1,20 +1,20 @@
 .candidates {
-    color: purple;
+  color: purple;
 }
 
 .data {
-    color: brown;
+  color: brown;
 }
 
 img {
-    width: 40%;
-    height: auto;
+  width: 40%;
+  height: auto;
 }
 
 .centered {
-    text-align: center;
+  text-align: center;
 }
 
 .crew {
-    color: #3c79b8;
+  color: #3c79b8;
 }
